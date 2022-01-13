@@ -1,0 +1,706 @@
+[
+  {
+    "id": "aac4b125-c9bd-4590-adeb-274cc0653daf",
+    "label": "Designs",
+    "fullpath": "/Designs",
+    "isExpanded": true,
+    "isSelected": false,
+    "childNodes": [
+      {
+        "id": "bbe4ab1e-c4a1-4803-8b6f-83fb266fedb5",
+        "label": "ART ACRYLIC",
+        "fullpath": "/Designs/ART ACRYLIC",
+        "isExpanded": true,
+        "isSelected": true,
+        "childNodes": [],
+        "hasCaret": true,
+        "type": "folder",
+        "filesInNode": [
+          {
+            "id": "0a20a846-72a1-4c20-b19f-f738db427273",
+            "label": "Cabalape",
+            "fullpath": "Designs/ART ACRYLIC/Cabalape.ctf",
+            "path": "/Designs/ART ACRYLIC",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "5aaea44d-476a-43be-9043-8fe423b7aa30",
+            "label": "Dream Kaleen",
+            "fullpath": "Designs/ART ACRYLIC/Dream Kaleen.ctf",
+            "path": "/Designs/ART ACRYLIC",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "6e8827e4-75b2-42e7-9b00-15862c2c163e",
+            "label": "Probyte",
+            "fullpath": "Designs/ART ACRYLIC/Probyte.ctf",
+            "path": "/Designs/ART ACRYLIC",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "7c7d8f6d-02e3-49f2-948a-6cd73f2ed0e7",
+            "label": "Revelio",
+            "fullpath": "Designs/ART ACRYLIC/Revelio.ctf",
+            "path": "/Designs/ART ACRYLIC",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "0c27b815-ce20-407e-a4cd-ded51e54b7d8",
+            "label": "Xylont Fent",
+            "fullpath": "Designs/ART ACRYLIC/Xylont Fent.ctf",
+            "path": "/Designs/ART ACRYLIC",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          }
+        ],
+        "showThumbnails": {
+          "id": "0a20a846-72a1-4c20-b19f-f738db427273",
+          "label": "Cabalape",
+          "fullpath": "Designs/ART ACRYLIC/Cabalape.ctf",
+          "path": "/Designs/ART ACRYLIC",
+          "isExpanded": false,
+          "childNodes": [],
+          "hasCaret": false,
+          "type": "file",
+          "similarItems": []
+        },
+        "level": 1,
+        "thumbsLength": 0
+      },
+      {
+        "id": "6da70f6f-979c-45ac-995b-7e402b625303",
+        "label": "CLASSIC",
+        "fullpath": "/Designs/CLASSIC",
+        "isExpanded": false,
+        "isSelected": false,
+        "childNodes": [
+          {
+            "id": "c65f9a07-daf2-461e-a4e9-0883676686cd",
+            "label": "Cubinia",
+            "fullpath": "/Designs/CLASSIC/Cubinia",
+            "isExpanded": false,
+            "isSelected": false,
+            "childNodes": [],
+            "hasCaret": true,
+            "type": "folder",
+            "filesInNode": [
+              {
+                "id": "4a417d6f-f0ca-4557-ad4a-a64c5fcded29",
+                "label": "Cubinia ",
+                "fullpath": "Designs/CLASSIC/Cubinia/Cubinia .ctf",
+                "path": "/Designs/CLASSIC/Cubinia",
+                "isExpanded": false,
+                "childNodes": [],
+                "hasCaret": false,
+                "type": "file",
+                "similarItems": []
+              },
+              {
+                "id": "fbdca8c3-3e20-443e-a722-95142498e388",
+                "label": "Cubinia Circular",
+                "fullpath": "Designs/CLASSIC/Cubinia/Cubinia Circular.ctf",
+                "path": "/Designs/CLASSIC/Cubinia",
+                "isExpanded": false,
+                "childNodes": [],
+                "hasCaret": false,
+                "type": "file",
+                "similarItems": []
+              },
+              {
+                "id": "819922fb-acc3-4e2b-b877-7506c12ed67d",
+                "label": "Cubinia Oval",
+                "fullpath": "Designs/CLASSIC/Cubinia/Cubinia Oval.ctf",
+                "path": "/Designs/CLASSIC/Cubinia",
+                "isExpanded": false,
+                "childNodes": [],
+                "hasCaret": false,
+                "type": "file",
+                "similarItems": []
+              },
+              {
+                "id": "ab2cc6d1-b505-4248-9ae5-fcc1115e1473",
+                "label": "Cubinia Runner",
+                "fullpath": "Designs/CLASSIC/Cubinia/Cubinia Runner.ctf",
+                "path": "/Designs/CLASSIC/Cubinia",
+                "isExpanded": false,
+                "childNodes": [],
+                "hasCaret": false,
+                "type": "file",
+                "similarItems": []
+              },
+              {
+                "id": "33674d22-995a-4a98-af7c-1ec41987467b",
+                "label": "Cubinia Square",
+                "fullpath": "Designs/CLASSIC/Cubinia/Cubinia Square.ctf",
+                "path": "/Designs/CLASSIC/Cubinia",
+                "isExpanded": false,
+                "childNodes": [],
+                "hasCaret": false,
+                "type": "file",
+                "similarItems": []
+              }
+            ],
+            "level": 2,
+            "thumbsLength": 0
+          }
+        ],
+        "hasCaret": true,
+        "type": "folder",
+        "filesInNode": [
+          {
+            "id": "d4f93ce7-5543-404c-ac34-0b2c1e4baac2",
+            "label": "Crorito",
+            "fullpath": "Designs/CLASSIC/Crorito.ctf",
+            "path": "/Designs/CLASSIC",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "4fc6e8f7-9579-4683-b396-e10b3620141a",
+            "label": "Cubinia",
+            "fullpath": "Designs/CLASSIC/Cubinia.ctf",
+            "path": "/Designs/CLASSIC",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "bdb7b5bd-4d49-40ce-a499-4865e714fd48",
+            "label": "Daylima",
+            "fullpath": "Designs/CLASSIC/Daylima.ctf",
+            "path": "/Designs/CLASSIC",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "ff705c52-7006-499d-a634-0037a462bb8c",
+            "label": "Gurutent",
+            "fullpath": "Designs/CLASSIC/Gurutent.ctf",
+            "path": "/Designs/CLASSIC",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "b73c3014-5676-4c76-bd2e-c144bb184354",
+            "label": "Reptyt Envipa",
+            "fullpath": "Designs/CLASSIC/Reptyt Envipa.ctf",
+            "path": "/Designs/CLASSIC",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          }
+        ],
+        "level": 1,
+        "thumbsLength": 0
+      },
+      {
+        "id": "6050ff6a-9581-4654-9ce6-2dc9c9ec38a0",
+        "label": "CONTEMPORARY",
+        "fullpath": "/Designs/CONTEMPORARY",
+        "isExpanded": false,
+        "isSelected": false,
+        "childNodes": [],
+        "hasCaret": true,
+        "type": "folder",
+        "filesInNode": [
+          {
+            "id": "a59e01d7-0a33-41ab-8437-a93d0053387f",
+            "label": "Calible",
+            "fullpath": "Designs/CONTEMPORARY/Calible.ctf",
+            "path": "/Designs/CONTEMPORARY",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "9f71b9b1-e6c9-4125-b0f5-51c37101362f",
+            "label": "Hire Rative",
+            "fullpath": "Designs/CONTEMPORARY/Hire Rative.ctf",
+            "path": "/Designs/CONTEMPORARY",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "bb634320-a684-48e0-87a1-3276951c2803",
+            "label": "Mesone Henet",
+            "fullpath": "Designs/CONTEMPORARY/Mesone Henet.ctf",
+            "path": "/Designs/CONTEMPORARY",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "016d1930-3f36-45ad-8f3a-ddc02308351f",
+            "label": "Nemoxas",
+            "fullpath": "Designs/CONTEMPORARY/Nemoxas.ctf",
+            "path": "/Designs/CONTEMPORARY",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "17f35ec6-d3ae-4543-9aba-06cb92b3c3e6",
+            "label": "Pastes Junot",
+            "fullpath": "Designs/CONTEMPORARY/Pastes Junot.ctf",
+            "path": "/Designs/CONTEMPORARY",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          }
+        ],
+        "level": 1,
+        "thumbsLength": 0
+      },
+      {
+        "id": "a8bbef20-1142-42e7-8458-163802dd90f4",
+        "label": "ELEMENTARY",
+        "fullpath": "/Designs/ELEMENTARY",
+        "isExpanded": false,
+        "isSelected": false,
+        "childNodes": [],
+        "hasCaret": true,
+        "type": "folder",
+        "filesInNode": [
+          {
+            "id": "ddcbb218-5628-46e3-afd3-2f7c9914c103",
+            "label": "Beess Garare",
+            "fullpath": "Designs/ELEMENTARY/Beess Garare.ctf",
+            "path": "/Designs/ELEMENTARY",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "5097f8b0-d776-4dce-98df-b80e979f6f86",
+            "label": "Dinopa Dalog",
+            "fullpath": "Designs/ELEMENTARY/Dinopa Dalog.ctf",
+            "path": "/Designs/ELEMENTARY",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "aa990be9-f87c-4848-bcbd-911273d3f11f",
+            "label": "Metasquare",
+            "fullpath": "Designs/ELEMENTARY/Metasquare.ctf",
+            "path": "/Designs/ELEMENTARY",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "2cb26e85-6f29-4554-b73c-3e6c83695bc8",
+            "label": "Suph Artos",
+            "fullpath": "Designs/ELEMENTARY/Suph Artos.ctf",
+            "path": "/Designs/ELEMENTARY",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "97dcdce6-4e00-4684-8816-e96b0842aa13",
+            "label": "Venudrestre",
+            "fullpath": "Designs/ELEMENTARY/Venudrestre.ctf",
+            "path": "/Designs/ELEMENTARY",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          }
+        ],
+        "level": 1,
+        "thumbsLength": 0
+      },
+      {
+        "id": "e779b7d9-8e0a-4946-9af9-0c37d08eccfb",
+        "label": "FLORET",
+        "fullpath": "/Designs/FLORET",
+        "isExpanded": false,
+        "isSelected": false,
+        "childNodes": [],
+        "hasCaret": true,
+        "type": "folder",
+        "filesInNode": [
+          {
+            "id": "5e877ea5-b65c-4308-97df-f8a0ee82ca25",
+            "label": "Dinovene",
+            "fullpath": "Designs/FLORET/Dinovene.ctf",
+            "path": "/Designs/FLORET",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "c5995a15-9e6a-4cb2-ab4b-7f723088e499",
+            "label": "Dinovenet",
+            "fullpath": "Designs/FLORET/Dinovenet.ctf",
+            "path": "/Designs/FLORET",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "e2dabb81-0187-4ff8-ab85-f4d737e5c77a",
+            "label": "Garative",
+            "fullpath": "Designs/FLORET/Garative.ctf",
+            "path": "/Designs/FLORET",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "4e6557a8-d610-470d-890f-1dd67f6e0a86",
+            "label": "Haregue",
+            "fullpath": "Designs/FLORET/Haregue.ctf",
+            "path": "/Designs/FLORET",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "44e21415-b16e-4f86-b502-e8e2cdf1ed7b",
+            "label": "Junocide",
+            "fullpath": "Designs/FLORET/Junocide.ctf",
+            "path": "/Designs/FLORET",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "e991a32f-39fe-480d-bc75-051c14150540",
+            "label": "Ramamous",
+            "fullpath": "Designs/FLORET/Ramamous.ctf",
+            "path": "/Designs/FLORET",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          }
+        ],
+        "level": 1,
+        "thumbsLength": 0
+      },
+      {
+        "id": "b6b2dc23-0909-4b20-b650-3f235a8f15e8",
+        "label": "TRANSITIONAL",
+        "fullpath": "/Designs/TRANSITIONAL",
+        "isExpanded": false,
+        "isSelected": false,
+        "childNodes": [],
+        "hasCaret": true,
+        "type": "folder",
+        "filesInNode": [
+          {
+            "id": "dd5d5a9c-f1bb-4e08-9abe-f24943f70097",
+            "label": "Baros Rublic",
+            "fullpath": "Designs/TRANSITIONAL/Baros Rublic.ctf",
+            "path": "/Designs/TRANSITIONAL",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "65c15ce8-0b39-4562-86a8-5e66bca64434",
+            "label": "Heliocope",
+            "fullpath": "Designs/TRANSITIONAL/Heliocope.ctf",
+            "path": "/Designs/TRANSITIONAL",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "7a194bcc-8950-4f11-8d90-17c58b576d02",
+            "label": "Karmacem",
+            "fullpath": "Designs/TRANSITIONAL/Karmacem.ctf",
+            "path": "/Designs/TRANSITIONAL",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "66a69d02-1c4c-4bb1-b585-f5e622c347ee",
+            "label": "Monoxtra",
+            "fullpath": "Designs/TRANSITIONAL/Monoxtra.ctf",
+            "path": "/Designs/TRANSITIONAL",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "3e16fcad-5669-4b4e-8904-bb419c21a49a",
+            "label": "Spaceng",
+            "fullpath": "Designs/TRANSITIONAL/Spaceng.ctf",
+            "path": "/Designs/TRANSITIONAL",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "2578ae9d-9dee-4a2b-86da-2bd9f4565002",
+            "label": "Thorneus",
+            "fullpath": "Designs/TRANSITIONAL/Thorneus.ctf",
+            "path": "/Designs/TRANSITIONAL",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          }
+        ],
+        "level": 1,
+        "thumbsLength": 0
+      },
+      {
+        "id": "007cb71a-1846-41ae-8934-8baf9b396dee",
+        "label": "ULTRA MODERN BORDER",
+        "fullpath": "/Designs/ULTRA MODERN BORDER",
+        "isExpanded": false,
+        "isSelected": false,
+        "childNodes": [
+          {
+            "id": "55b662d4-617a-457d-9d02-4a670ba4b3c2",
+            "label": "Sublimopar",
+            "fullpath": "/Designs/ULTRA MODERN BORDER/Sublimopar",
+            "isExpanded": false,
+            "isSelected": false,
+            "childNodes": [],
+            "hasCaret": true,
+            "type": "folder",
+            "filesInNode": [
+              {
+                "id": "cc521625-daf3-4c3f-8922-0359758821a3",
+                "label": "Sublimopar-Burgundy",
+                "fullpath": "Designs/ULTRA MODERN BORDER/Sublimopar/Sublimopar-Burgundy.ctf",
+                "path": "/Designs/ULTRA MODERN BORDER/Sublimopar",
+                "isExpanded": false,
+                "childNodes": [],
+                "hasCaret": false,
+                "type": "file",
+                "similarItems": []
+              },
+              {
+                "id": "20a01e62-4405-40ea-9cad-93af52c41292",
+                "label": "Sublimopar-Canvas",
+                "fullpath": "Designs/ULTRA MODERN BORDER/Sublimopar/Sublimopar-Canvas.ctf",
+                "path": "/Designs/ULTRA MODERN BORDER/Sublimopar",
+                "isExpanded": false,
+                "childNodes": [],
+                "hasCaret": false,
+                "type": "file",
+                "similarItems": []
+              },
+              {
+                "id": "4b97c6de-555d-4e87-b40a-09da85d9455e",
+                "label": "Sublimopar-Cobalt",
+                "fullpath": "Designs/ULTRA MODERN BORDER/Sublimopar/Sublimopar-Cobalt.ctf",
+                "path": "/Designs/ULTRA MODERN BORDER/Sublimopar",
+                "isExpanded": false,
+                "childNodes": [],
+                "hasCaret": false,
+                "type": "file",
+                "similarItems": []
+              },
+              {
+                "id": "371424b6-85bf-49c6-9343-948358dbd982",
+                "label": "Sublimopar-Purplish",
+                "fullpath": "Designs/ULTRA MODERN BORDER/Sublimopar/Sublimopar-Purplish.ctf",
+                "path": "/Designs/ULTRA MODERN BORDER/Sublimopar",
+                "isExpanded": false,
+                "childNodes": [],
+                "hasCaret": false,
+                "type": "file",
+                "similarItems": []
+              },
+              {
+                "id": "adb47cf9-6e50-47dd-baeb-5b54ef29d854",
+                "label": "Sublimopar-Red",
+                "fullpath": "Designs/ULTRA MODERN BORDER/Sublimopar/Sublimopar-Red.ctf",
+                "path": "/Designs/ULTRA MODERN BORDER/Sublimopar",
+                "isExpanded": false,
+                "childNodes": [],
+                "hasCaret": false,
+                "type": "file",
+                "similarItems": []
+              }
+            ],
+            "level": 2,
+            "thumbsLength": 0
+          }
+        ],
+        "hasCaret": true,
+        "type": "folder",
+        "filesInNode": [
+          {
+            "id": "61e041ec-ebf0-46cc-9e7d-4fe07ce85759",
+            "label": "Apollola",
+            "fullpath": "Designs/ULTRA MODERN BORDER/Apollola.ctf",
+            "path": "/Designs/ULTRA MODERN BORDER",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "11dc53de-7a2f-40ce-b501-4d33df30d24d",
+            "label": "Arcadague",
+            "fullpath": "Designs/ULTRA MODERN BORDER/Arcadague.ctf",
+            "path": "/Designs/ULTRA MODERN BORDER",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "b25478a5-ef5f-41f9-a2f3-cd63fe531fc0",
+            "label": "Diabol Cetate",
+            "fullpath": "Designs/ULTRA MODERN BORDER/Diabol Cetate.ctf",
+            "path": "/Designs/ULTRA MODERN BORDER",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "cb7a60dd-5989-49a7-a53e-6aa81c02aa1d",
+            "label": "Egoria Packan",
+            "fullpath": "Designs/ULTRA MODERN BORDER/Egoria Packan.ctf",
+            "path": "/Designs/ULTRA MODERN BORDER",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          },
+          {
+            "id": "7e024081-22f4-4b8f-acb2-6457014458fd",
+            "label": "Sublimopar",
+            "fullpath": "Designs/ULTRA MODERN BORDER/Sublimopar.ctf",
+            "path": "/Designs/ULTRA MODERN BORDER",
+            "isExpanded": false,
+            "childNodes": [],
+            "hasCaret": false,
+            "type": "file",
+            "similarItems": []
+          }
+        ],
+        "level": 1,
+        "thumbsLength": 0
+      }
+    ],
+    "hasCaret": true,
+    "type": "folder",
+    "filesInNode": [
+      {
+        "id": "c948442b-9cfe-4732-bdf9-67f9325f5606",
+        "label": "Nemoxas",
+        "fullpath": "Designs/Nemoxas.ctf",
+        "path": "/Designs",
+        "isExpanded": false,
+        "childNodes": [],
+        "hasCaret": false,
+        "type": "file",
+        "similarItems": []
+      },
+      {
+        "id": "0d0672a2-0e0d-4aa6-be6f-2e5687e0f2b4",
+        "label": "Ramamous",
+        "fullpath": "Designs/Ramamous.ctf",
+        "path": "/Designs",
+        "isExpanded": false,
+        "childNodes": [],
+        "hasCaret": false,
+        "type": "file",
+        "similarItems": []
+      },
+      {
+        "id": "59b3c938-545e-4632-b728-c37131457163",
+        "label": "Sublimopar",
+        "fullpath": "Designs/Sublimopar.ctf",
+        "path": "/Designs",
+        "isExpanded": false,
+        "childNodes": [],
+        "hasCaret": false,
+        "type": "file",
+        "similarItems": []
+      }
+    ],
+    "level": 0,
+    "thumbsLength": 0
+  }
+]
